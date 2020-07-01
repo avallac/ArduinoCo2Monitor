@@ -1,3 +1,3 @@
 # ArduinoCo2Monitor
 
-![ScreenShot](https://raw.github.com/avallac/ArduinoCo2Monitor/master/photos/main.jpg)
+![ScreenShot](https://github.com/avallac/ArduinoCo2Monitor/raw/master/photos/main.jpg)
